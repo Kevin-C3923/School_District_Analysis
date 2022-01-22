@@ -83,4 +83,4 @@ Even do we removed the 9th grades math and reading for Thomas High School’s, t
 	
 
 ## Summary	
-	
+With the replacement of the ninth grade reading and math scores for Thomas High School, some changes can be seen. For the district summary, the average of math and passing overall decreased by 0.1, while passing in math went down by 0.2 and in reading it went down by 0.3. This can also be seen in the school summary, as Thomas High school average's and passing's went down about ~0.1 to ~0.3. When it came to the Math and Reading scores by grade, the only difference is that Thomas High school 9th grade has NaN and doesn't allow us compare there 9th grade overall to other schools. However, when it came to Scores by school spending, size and type in the charts above you don't see any difference that Thomas High school would have affected. The reason for this was that the changes/difference were about ~0.01 to ~0.03 and we were informed to round up to the nearest tenth, so does differences are not showen.
